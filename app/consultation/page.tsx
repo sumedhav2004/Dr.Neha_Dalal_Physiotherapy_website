@@ -14,10 +14,10 @@ const page = (props: Props) => {
         <div className="lg:col-span-7 animate-fade-in">
           <p className="eyebrow mb-6">Private 1:1 Consultations</p>
           <h1 className="font-serif text-5xl md:text-7xl leading-[1.05]">
-            An hour with Lina,<br /><em className="text-blush-gradient">undivided.</em>
+            An hour with Neha,<br /><em className="text-blush-gradient">undivided.</em>
           </h1>
           <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-xl leading-relaxed">
-            For the woman who wants the most precise, most personal version of this work.
+            For the person who wants the most precise, most personal version of this work.
             A private virtual session — every minute designed around your body, your patterns,
             your life.
           </p>
@@ -31,7 +31,7 @@ const page = (props: Props) => {
             <div className="flex items-center gap-2"><Clock size={14} className="text-blush" /> 60 minutes</div>
             <div className="flex items-center gap-2"><Calendar
              size={14} className="text-blush" /> Virtual, worldwide</div>
-            <div className="flex items-center gap-2"><ShieldCheck size={14} className="text-blush" /> Limited to 8/month</div>
+            <div className="flex items-center gap-2"><ShieldCheck size={14} className="text-blush" /> Limited </div>
           </div>
         </div>
         <div className="lg:col-span-5 relative animate-scale-in">

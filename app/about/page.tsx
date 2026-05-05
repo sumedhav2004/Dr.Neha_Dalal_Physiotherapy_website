@@ -23,7 +23,7 @@ const page = (props: Props) => {
           <div className="mt-8 glass-card rounded-2xl p-6">
             <p className="eyebrow mb-3 text-blush">Credentials</p>
             <ul className="space-y-2 text-sm text-foreground/80">
-              <li>. BPT, MPT (MusculoSkeletal and Orthopedic)</li>
+              <li>. Masters in physiotherapy (MusculoSkeletal and Orthopedic)</li>
               <li>· Lower back pain and Posture correction specialist</li>
               <li>· 500+ in-person treatment hours</li>
               <li></li>
