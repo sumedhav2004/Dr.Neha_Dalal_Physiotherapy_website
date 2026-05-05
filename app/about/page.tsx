@@ -47,14 +47,14 @@ const page = (props: Props) => {
               every cause and consequence.
             </p>
             <p>
-              For ten years, I ran a small private practice in west London. I saw the
-              same patterns over and over again: brilliant women — lawyers, mothers,
+              For some years, I ran a small private practice online. I saw the
+              same patterns over and over again: brilliant people — working professionals, mothers,
               founders, dancers — quietly negotiating with their bodies every single day.
               Booking the appointment. Feeling better for a week. Coming back. Booking
               again.
             </p>
             <p>
-              I started to feel something close to grief about it. These women didn't
+              I started to feel something close to grief about it. These people didn't
               need <em>me.</em> They needed a method they could carry with them.
             </p>
             <p className="font-serif text-2xl text-blush-gradient italic">
@@ -63,12 +63,11 @@ const page = (props: Props) => {
             <p>
               The Aligned Method™ is what I taught my private clients between sessions.
               The cues. The micro-rituals. The breath patterns. The single mindset shift
-              that, more than any technique, separates the women who heal from the women
+              that, more than any technique, separates the people who heal from the people
               who don't.
             </p>
             <p>
-              I refined it over thousands of hours of one-to-one practice. Then, in 2022,
-              I closed my clinic to bring it to women everywhere.
+              I refined it over thousands of hours of one-to-one practice.
             </p>
           </div>
 
@@ -93,7 +92,7 @@ const page = (props: Props) => {
 
           <div className="divider-soft" />
 
-          <div>
+          {/* <div>
             <p className="eyebrow mb-5">Off the clock</p>
             <p className="text-foreground/80 leading-relaxed">
               I live in a small flat in Lisbon with too many books, a stubborn rescue
@@ -101,7 +100,7 @@ const page = (props: Props) => {
               about. I bake bread badly. I read poetry well. I am still, after all this,
               learning to slow down.
             </p>
-          </div>
+          </div> */}
 
           <div className="pt-8 flex flex-wrap gap-4">
             <Button variant="blush" size="lg" asChild>
