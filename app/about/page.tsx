@@ -23,7 +23,8 @@ const page = (props: Props) => {
           <div className="mt-8 glass-card rounded-2xl p-6">
             <p className="eyebrow mb-3 text-blush">Credentials</p>
             <ul className="space-y-2 text-sm text-foreground/80">
-              <li>. Masters in physiotherapy (MusculoSkeletal and Orthopedic)</li>
+              <li>. Clinical Physiotherapist (BPT, MPT, musculoskeletal)</li>
+              <li>. Spent 4 years</li>
               <li>· Lower back pain and Posture correction specialist</li>
               <li>· 500+ in-person treatment hours</li>
               <li></li>
@@ -41,7 +42,7 @@ const page = (props: Props) => {
 
           <div className="space-y-6 text-lg text-foreground/85 leading-relaxed font-light">
             <p>
-              I trained at King's College London because I wanted to understand the body
+              I trained at PGI Rohtak because I wanted to understand the body
               the way a watchmaker understands a movement — every part, every tension,
               every cause and consequence.
             </p>
